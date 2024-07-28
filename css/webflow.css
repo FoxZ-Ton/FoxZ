@@ -198,6 +198,7 @@ html[data-w-dynpage] [data-w-cloak] {
 }
 h1,
 h2,
+h2custom,
 h3,
 h4,
 h5,
@@ -212,6 +213,12 @@ h1 {
 }
 h2 {
   font-size: 32px;
+  line-height: 36px;
+  margin-top: 20px;
+}
+h2custom {
+  font-size: 32px;
+  font-color: white;
   line-height: 36px;
   margin-top: 20px;
 }
