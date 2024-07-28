@@ -274,9 +274,9 @@ a {
 .branding {
   border-style: solid;
   border-width: 1px;
-  border-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0.1);
   border-radius: 0.25rem;
-  background-color: hsla(0, 0%, 0%, 0);
+  background-color: hsla(0, 0%, 100%, 0.1);
 }
 
 .branding_img {
