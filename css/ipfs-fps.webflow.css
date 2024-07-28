@@ -145,6 +145,9 @@ a {
   background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
 }
+.hero-dark {
+  background-color: #000;
+  color: #fff;}
 
 .centered-container {
   position: relative;
